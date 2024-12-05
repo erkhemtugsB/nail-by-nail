@@ -383,8 +383,9 @@ a[href*='tel'], a[href*='mailto'] {
 		bottom: 0;
 		top: 0;
 		width: 100%;
-		background: url("../images/home-3-1-974x626.jpg");
+		background: url("../images/salon-bg.png");
 		background-size: cover;
+		background-position: center; /* Center horizontally and vertically */
 	}
 	.block-img-aside img {
 		display: none;
