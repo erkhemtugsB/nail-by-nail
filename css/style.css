@@ -14797,7 +14797,7 @@ html[class*="ie"] .dtp-hand, html[class*="ie"] .dtp-hour-hand {
 	margin-bottom: 15px;
 }
 .view-more-btn {
-	background-color: #f29cb8;
+	background-color: #e9ad5d;
 	color: white;
 	padding: 10px 20px;
 	border: none;
@@ -14810,5 +14810,5 @@ html[class*="ie"] .dtp-hand, html[class*="ie"] .dtp-hour-hand {
 	text-decoration: none;
 }
 .view-more-btn:hover {
-	background-color: #e08299;
+	background-color: #e9ad5d;
 }
